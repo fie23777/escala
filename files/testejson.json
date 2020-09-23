@@ -1,0 +1,23 @@
+[
+   {
+      "id":1,
+      "nome":"jucva",
+      "categoria":"TE",
+      "coren":"3285875",
+      "cliente":{ "nome": "joao", "idade": 32}
+   },
+   {
+      "id":2,
+      "nome":"Maria",
+      "categoria":"TI",
+      "coren":"30557858",
+      "cliente":{ "nome": "joao", "idade": 32}
+   },
+   {
+      "id":3,
+      "nome":"José",
+      "categoria":"TO",
+      "coren":"27858757",
+      "cliente":{ "nome": "joao", "idade": 32}
+   }
+]
